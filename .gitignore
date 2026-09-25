@@ -1,0 +1,26 @@
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets and local runtime data
+.env
+.env.*
+*.pem
+*.key
+*.seed
+wallets/
+data/local/
+
+# Build/test output
+dist/
+build/
+.pytest_cache/
+coverage.xml
+htmlcov/

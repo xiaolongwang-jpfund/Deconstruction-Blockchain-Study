@@ -1,4 +1,4 @@
-# Blockchain Basic: A Non-technical Introduction in 25 Steps + 5 Steps Beyond the Basics
+# Blockchain Basics: A Non-technical Introduction in 25 Steps + 5 Steps Beyond the Basics
 
 ## Bibliographic information
 
@@ -16,7 +16,7 @@
 - Started:
 - Completed:
 - Current step:
-- Progerss:
+- Progress:
 
 ## Why I am reading this book
 
@@ -53,3 +53,4 @@
 ---
 
 ## Final reflection
+

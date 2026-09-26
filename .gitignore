@@ -24,3 +24,11 @@ build/
 .pytest_cache/
 coverage.xml
 htmlcov/
+
+# Local editor metadata
+.vmark/
+**/.vmark/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store

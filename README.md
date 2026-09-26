@@ -1,6 +1,6 @@
 # Deconstruction Blockchain Study
 
-一个长期读书与实操项目：从零基础理解区块链，到实现可验证的教学型区块链实验。
+一个长期读书与实操项目：从零基础理解区块链，到实现可验证的教学型区块链实验，到完成自己的第一个区块链技术产品。
 
 ## 学习边界
 
@@ -16,11 +16,12 @@
 ## 从这里开始
 
 1. 阅读 [`reading/reading-plan.md`](reading/reading-plan.md)。
-2. 每次学习后填写 [`logs/daily/README.md`](logs/daily/README.md) 所示的日志。
+2. 每次学习结束后填写 [`logs/daily/README.md`](logs/daily/README.md) 所示的日志。
 3. 把章节笔记写入 `reading/notes/`，把代码和实验写入 `labs/`。
 4. 发布前按 [`docs/public-release-checklist.md`](docs/public-release-checklist.md) 检查。
 
 ## 当前状态
 
-- 阶段：项目初始化
-- 下一步：完成第一章阅读，写出第一篇章节笔记和第一份学习日志
+- 阶段：项目初始化完成。
+- 下一步：完成第一章阅读，写出第一篇章节笔记和第一份学习日志。
+
